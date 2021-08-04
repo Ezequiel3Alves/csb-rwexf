@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://ezequiel3alves.github.io/csb-rwexf/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://ezequiel3alves.github.io/csb-rwexf/static/js/main.a54d6022.chunk.js",
+    "main.js.map": "https://ezequiel3alves.github.io/csb-rwexf/static/js/main.a54d6022.chunk.js.map",
+    "runtime-main.js": "https://ezequiel3alves.github.io/csb-rwexf/static/js/runtime-main.394456a1.js",
+    "runtime-main.js.map": "https://ezequiel3alves.github.io/csb-rwexf/static/js/runtime-main.394456a1.js.map",
+    "static/js/2.afd9b8ba.chunk.js": "https://ezequiel3alves.github.io/csb-rwexf/static/js/2.afd9b8ba.chunk.js",
+    "static/js/2.afd9b8ba.chunk.js.map": "https://ezequiel3alves.github.io/csb-rwexf/static/js/2.afd9b8ba.chunk.js.map",
+    "index.html": "https://ezequiel3alves.github.io/csb-rwexf/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://ezequiel3alves.github.io/csb-rwexf/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.afd9b8ba.chunk.js.LICENSE.txt": "https://ezequiel3alves.github.io/csb-rwexf/static/js/2.afd9b8ba.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.394456a1.js",
+    "static/js/2.afd9b8ba.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.a54d6022.chunk.js"
+  ]
+}
